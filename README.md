@@ -1,2 +1,2 @@
 # sim
-Python - testing life sim ideas
+Python - testing life-sim ideas
