@@ -1,4 +1,5 @@
-## This is a header
+## This is a header (H2)
+### This is a header (H3)
 
 Here is some text.
 
@@ -7,4 +8,9 @@ Here is some text.
 
 [link to Google](http://google.com)
 
-More text.
+*Italic*, _Italic to_
+
+**Bold**, __Bold too__
+
+
+Link to: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
